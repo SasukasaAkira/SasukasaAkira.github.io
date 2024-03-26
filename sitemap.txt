@@ -1,2 +1,4 @@
-http://example.com/2024/03/25/hello-world/
-http://example.com/
+http://sasukasaakira.github.io/about/index.html
+http://sasukasaakira.github.io/archives/index.html
+http://sasukasaakira.github.io/2024/03/25/hello-world/
+http://sasukasaakira.github.io/
